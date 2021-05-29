@@ -1,4 +1,4 @@
-## Hai, Selamat Datang di Profile ku 👋
+## Hai, Welcome to my profile 👋
 
 <p align="center">
     <img src = "https://cdn.discordapp.com/attachments/765606831229370441/848229136848781352/10.jpg">
