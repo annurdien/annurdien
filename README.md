@@ -17,6 +17,8 @@
 </pre>
 
 
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 10px; width: 100%;">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annurdien&repo=sim-cli&theme=transparent)](https://github.com/annurdien/sim-cli)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annurdien&repo=karat&theme=transparent)](https://github.com/annurdien/karat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annurdien&repo=http-rust&theme=transparent)](https://github.com/annurdien/http-rust)
@@ -26,6 +28,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annurdien&repo=ImportFormatter&theme=transparent)](https://github.com/annurdien/ImportFormatter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annurdien&repo=flutter_clean_architecture&theme=transparent)](https://github.com/annurdien/flutter_clean_architecture)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annurdien&repo=sigma&theme=transparent)](https://github.com/annurdien/sigma)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annurdien&repo=flutter_clean_architecture&theme=transparent)](https://github.com/annurdien/flutter_clean_architecture)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annurdien&repo=ImportFormatter&theme=transparent)](https://github.com/annurdien/ImportFormatter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annurdien&repo=populate&theme=transparent)](https://github.com/annurdien/populate)
+
+</div>
