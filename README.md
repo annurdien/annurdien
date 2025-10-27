@@ -15,5 +15,5 @@
      .*' /  .*' ; .*`- +'  `*'
       `*-*   `*-*  `*-*'
 
-I build reliable software and simple tools.
+I build cool shit.
 </pre>
