@@ -15,5 +15,5 @@
      .*' /  .*' ; .*`- +'  `*'
       `*-*   `*-*  `*-*'
 
-I build cool shit.
+I build cool shit
 </pre>
